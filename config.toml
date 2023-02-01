@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "https://bejewelled-mochi-a154e7.netlify.app/"
 languageCode = "en-us"
 theme = 'ananke'
 resourceDir = "../resources"
@@ -19,7 +19,7 @@ enableRobotsTXT = true
   [languages.fr]
     title = "Ananke Fr"
     weight = 2
-    contentDir = "content/fr"
+    contentDir = "content/posts"
 
 [sitemap]
   changefreq = "monthly"
@@ -28,7 +28,7 @@ enableRobotsTXT = true
 
 [params]
   text_color = ""
-  author = ""
+  author = "Dylan Holland"
   favicon = ""
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
