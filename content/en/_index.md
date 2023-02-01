@@ -7,4 +7,6 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Here's a link to a website that could be useful for my comp:
+
+https://www.proquest.com/docview/2757229721?accountid=8268&pq-origsite=Summon&parentSessionId=ZA7K5cq7ZQtv9iGqNXuny3kSmC3pAfhAqIgeiafGRlQ%3D
